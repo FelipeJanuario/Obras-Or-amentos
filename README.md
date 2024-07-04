@@ -1,2 +1,2 @@
-# Obras-Or-amentos
+# Obras e Orcamentos
 Esse projeto utiliza-se Python para o cálculo do levantamento de material para a construção civil
