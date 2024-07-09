@@ -1,4 +1,4 @@
-# Obras e Orcamentos
+# Mãos a Obra
 Esse projeto utiliza-se Python para o cálculo do levantamento de material para a construção civil
 
 - Inicialmente foi criado o arquivo Parede.py para cálculo dos tijolos necessários para o levantamento da parede.
