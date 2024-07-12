@@ -26,7 +26,7 @@ Esse projeto utiliza-se Python para o cálculo do levantamento de material para 
 
 
 
-- Nessa próxima versão (1.1), foi feito o calculo para saber a quantidade de cimento que será necessário para construir, seguindo as medidas do usuário.
+- Nessa próxima versão (1.1), foi criado o arquivo Cimento.py onde é feito o calculo para saber a quantidade de cimento que será necessário para construir, seguindo as medidas do usuário.
 
 ![image](https://github.com/user-attachments/assets/9094afea-e539-431f-81f5-86701bdb3450)
 
