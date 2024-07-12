@@ -1,5 +1,5 @@
 # Mãos a Obra
-Esse projeto utiliza-se Python para o cálculo do levantamento de material para a construção civil
+Esse projeto utiliza-se Python para o cálculo do levantamento de materiais para a construção civil
 
 - Inicialmente foi criado o arquivo Parede.py para cálculo dos tijolos necessários para o levantamento da parede. Nesse arquivo foi definido as dimensões da parede, tijolos e expessura da argamassa, essas informações foram preenchidas pelo usuário. O arquivo parede, inicia-se calculando a Área da Parede:
 
