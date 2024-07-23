@@ -31,9 +31,11 @@ Esse projeto utiliza-se Python para o cálculo do levantamento de materiais para
 ![image](https://github.com/user-attachments/assets/9094afea-e539-431f-81f5-86701bdb3450)
 
 
+- Nessa versão (1.2), foi criado o arquivo Piso.py onde é feito o calculo dos pisos necessários para preencher uma parede ou um chão. O programa solicita ao usuário para inserir a medida do ambiente, dos pisos e também a porcentagem para uma sobra de segurança.
+
+  ![image](https://github.com/user-attachments/assets/969aa303-a849-4687-88be-6dffc06f2891)
 
 
 
 Próximos passos
-- Criar arquivo para calculo de pisos
 - Elaborar aplicativo para disponibilização dessa ferramenta no mobile.
